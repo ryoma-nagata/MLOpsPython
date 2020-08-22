@@ -34,7 +34,7 @@ MLOpsでは、ML/AIプロジェクトのContinuous IntegrationとContinuous Deli
 
 ## はじめに
 
-このソリューションをサブスクリプションにデプロイするには、[getting started](docs/getting_started.md) ドキュメントのマニュアルの指示に従ってください。次に、このリポジトリ テンプレートを使用して [独自のコードを統合する] (docs/custom_model.md) のガイドに従ってください。
+このソリューションをサブスクリプションにデプロイするには、[スタートアップ](docs/getting_started.md) ドキュメントのマニュアルの指示に従ってください。次に、このリポジトリ テンプレートを使用して [独自のコードを統合する](docs/custom_model.md) のガイドに従ってください。
 
 ### リポジトリの詳細
 
